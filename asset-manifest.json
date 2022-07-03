@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-hw-props-1-2/static/css/main.7e08dbcb.css",
-    "main.js": "/react-hw-props-1-2/static/js/main.e3df2a33.js",
+    "main.js": "/react-hw-props-1-2/static/js/main.52769db5.js",
     "static/js/787.85b3d2f2.chunk.js": "/react-hw-props-1-2/static/js/787.85b3d2f2.chunk.js",
     "index.html": "/react-hw-props-1-2/index.html",
     "main.7e08dbcb.css.map": "/react-hw-props-1-2/static/css/main.7e08dbcb.css.map",
-    "main.e3df2a33.js.map": "/react-hw-props-1-2/static/js/main.e3df2a33.js.map",
+    "main.52769db5.js.map": "/react-hw-props-1-2/static/js/main.52769db5.js.map",
     "787.85b3d2f2.chunk.js.map": "/react-hw-props-1-2/static/js/787.85b3d2f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e08dbcb.css",
-    "static/js/main.e3df2a33.js"
+    "static/js/main.52769db5.js"
   ]
 }
