@@ -17,15 +17,15 @@ function checkPrice(price, code) {
   return priceView;
 }
 
-function checkColor(quantity) {
+function checkColor(quantity1) {
     let colorClass = null;
-  if(quantity <= 10) {
+  if(quantity1 <= 10) {
     colorClass = 'level-low'
   }
-  if(quantity > 10 && quantity <= 20) {
+  if(quantity1 > 10 && quantity1 <= 20) {
     colorClass = 'level-medium'
   }
-  if(quantity > 20) {
+  if(quantity1 > 20) {
     colorClass = 'level-high'
   }
   return colorClass;
