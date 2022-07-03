@@ -3,11 +3,11 @@ import ListingItem from './ListingItem'
 import PropTypes from 'prop-types'
 
 export default function Listing(props) {
-  const { list } = props
+  const { items } = props
   console.log(props)
   return (
     <div className="item-list">
-         {list.map((item, i) => (
+         {items.map((item, i) => (
           <ListingItem key ={i} item={item}>
           </ListingItem>
            ))
@@ -17,7 +17,7 @@ export default function Listing(props) {
 }
 
 Listing.defaultProps = {
-    list: []
+  items: []
   }
 
 Listing.propTypes = {
